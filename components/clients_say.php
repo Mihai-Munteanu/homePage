@@ -29,8 +29,6 @@
                                    <i class="far fa-star"></i>
                               </div>
                          </div>
-                         
-                         
                     </div>
                     <div class="client_comment_container">
                          <div class="client_comment_cloud">
@@ -56,18 +54,14 @@
                                    <i class="far fa-star"></i>
                               </div>
                          </div>
-                         
-                         
                     </div>
                </div>
                <div class="clients_comment_footer">
                     <p>VIEW ALL</p>
                </div>
-
           </div>
           <div class="clients_say_video">
-               <iframe width="459" height="310"
-                    src="https://www.youtube.com/embed/tgbNymZ7vqY">
+               <iframe width="459" height="310" src="https://www.youtube.com/embed/WOqjR9AM62c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
                </iframe>
 
                <div class="client_say_video_comments">
@@ -79,6 +73,5 @@
                     </p>
                </div>
           </div>
-     
      </div>
 </div>

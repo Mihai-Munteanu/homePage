@@ -7,6 +7,4 @@
           <br>
           At V3 Security, we pride ourselves on being Northern California’s premier home security and home automation providers. We know that your family’s home and safety is unbelievably important to you, and because you’re a part of our local family, it’s important to us as well.
      </div>
-     
 </div>
-<div>

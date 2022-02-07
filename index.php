@@ -18,9 +18,7 @@
             
             <?php include("./components/about_us.php") ?>
         
-            <div class="line">
-                
-            </div>
+            <div class="line"></div>
 
             <?php include("./components/clients_say.php") ?>
         </div>
@@ -30,11 +28,11 @@
         showSlides(slideIndex);
 
         function plusSlides(n) {
-        showSlides(slideIndex += n);
+            showSlides(slideIndex += n);
         }
 
         function currentSlide(n) {
-        showSlides(slideIndex = n);
+            showSlides(slideIndex = n);
         }
 
         function showSlides(n) {
@@ -55,8 +53,7 @@
             
             slides[slideIndex-1].style.display = "block";  
             dots[slideIndex-1].className += " active";
-        
-         }
+        }
     </script>
     </body>
 </html> 
